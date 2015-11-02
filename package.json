@@ -3,6 +3,7 @@
   "description": "AngularJS directive for bootstrap-daterangepicker",
   "version": "0.0.5",
   "filename": "./src/ng-bs-daterangepicker.js",
+  "main": "./src/ng-bs-daterangepicker.js",
   "homepage": "http://github.com/luisfarzati/ng-bs-daterangepicker",
   "author": {
     "name": "Luis Farzati",
@@ -26,7 +27,9 @@
   "bugs": {
     "url": "http://github.com/luisfarzati/ng-bs-daterangepicker/issues"
   },
+  "license": "MIT",
   "dependencies": {
+    "bootstrap-daterangepicker": "^2.1.13"
   },
   "devDependencies": {
     "bower": "latest",
